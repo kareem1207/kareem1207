@@ -2,9 +2,10 @@
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ... dsa using java
 - 💞️ I’m looking to collaborate on ... any project 
-- 📫 How to reach me ... for now you can reach me through insta 
+- 📫 How to reach me ... for now you can reach me through insta
+- 🗣️ Languages I speak : English , Hindi , Telugu
 - ⚡ Fun fact: ... the fun fact about me is i am a srk fan
-- 💻 Language:... I know following programming languages :
+- 💻 Programming Languages:... I know following programming languages :
                    1.C
                    2.SQL
                    3.DSA-C
