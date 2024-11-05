@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @kareem1207
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ... dsa using java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on ... any project 
+- 📫 How to reach me ... for now you can reach me through insta 
 - ⚡ Fun fact: ... the fun fact about me is i am a srk fan
 - 💻 Language:... I know following programming languages :
                    1.C
