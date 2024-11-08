@@ -18,8 +18,6 @@
   <img src="./mongodb.png" width=200 height=200 alt="mongodb">
   <img src="./firebase.png" width=200 height=200 alt="firebase">
   <img src="./React.png" width=300 height=200 alt="react">
-   <!-- 2.![SQL](./sql.webp) -->
-  <!-- 3.DSA-C 4.![JAVA](./java.png) 5.![Python](./python.png) 6.![HTML](./html.jpeg) 7.![CSS](./css.webp) 8.![JS](./Js. webp) 9.![MongoDb](./mongodb.jpeg) 10.![Firebase](./firebase_logo_shot.png) 11.!["React Js"](./React.png) -->
 
 <!---
 kareem1207/kareem1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
