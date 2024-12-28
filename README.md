@@ -64,7 +64,7 @@ This project is a real-time web chat application built with modern web technolog
   <source media="(prefers-color-scheme:light)" srcset="./images/Algorithms/dsa-light.png">
   <img src="./images/Algorithms/dsa.png" alt="DSA - C" width="50">
 </picture>
-<img src="./images/Algorithms/dsa-java.png" alt="DSA - Java" width="50">
+<img src="./images/Algorithms/DSA-Java.png" alt="DSA - Java" width="50">
 
 ### Databases
 
@@ -74,7 +74,7 @@ This project is a real-time web chat application built with modern web technolog
 
 ### Frameworks
 
-<img src="./images/Frameworks/react.png" alt="React" width="50">
+<img src="./images/Frameworks/React.png" alt="React" width="50">
 <img src="./images/Frameworks/tailwind.png" alt="Tailwind CSS" width="50">
 <img src="./images/Frameworks/react-router.svg" alt="React Router DOM" width="50">
 <img src="./images/Frameworks/React Query.png" alt="React Query" width="50">
