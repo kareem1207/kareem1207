@@ -74,30 +74,37 @@ This project is a real-time web chat application built with modern web technolog
 
 ### Programming Languages
 
+<div style="display: flex;">
 <img src="./images/Programming Languages/c.png" alt="C" width="50">
 <img src="./images/Programming Languages/java.png" alt="Java" width="50">
 <img src="./images/Programming Languages/python.png" alt="Python" width="50">
 <img src="./images/Programming Languages/html.png" alt="HTML" width="50">
 <img src="./images/Programming Languages/css.png" alt="CSS" width="50">
 <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="50">
+</div>
 
 ### Algorithms
 
+<div style="display: flex;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/Algorithms/dsa.png">
   <source media="(prefers-color-scheme: light)" srcset="./images/Algorithms/dsa-light.png">
   <img src="./images/Algorithms/dsa.png" alt="DSA - C" width="50">
 </picture>
 <img src="./images/Algorithms/DSA-Java.png" alt="DSA - Java" width="50">
+</div>
 
 ### Databases
 
+<div style="display: flex;">
 <img src="./images/Databases/sql.png" alt="SQL" width="50">
 <img src="./images/Databases/mongodb.png" alt="MongoDB" width="50">
 <img src="./images/Databases/firebase.png" alt="Firebase" width="50">
+</div>
 
 ### Frameworks
 
+<div style="display: flex;">
 <img src="./images/Frameworks/React.png" alt="React" width="50">
 <img src="./images/Frameworks/tailwind.png" alt="Tailwind CSS" width="50">
 <img src="./images/Frameworks/react-router.svg" alt="React Router DOM" width="50">
@@ -106,6 +113,7 @@ This project is a real-time web chat application built with modern web technolog
 <img src="./images/Frameworks/Next.js.png" alt="Next.js" width="50">
 <img src="./images/Frameworks/Three-js.png" alt="Three.js" width="50">
 <img src="./images/Frameworks/blender.jpg" alt="Blender" width="50">
+</div>
 
 ## Achievements
 
@@ -114,13 +122,12 @@ This project is a real-time web chat application built with modern web technolog
 
 ## Blog
 
-Check out my latest blog posts on [Your Blog](https://yourblog.com):
+Check out my latest blog posts on [My Blog](https://kareem-blogs.blogspot.com/):
 
-- [Blog Post One](https://yourblog.com/blog-post-one)
-- [Blog Post Two](https://yourblog.com/blog-post-two)
+- [Blog Post One](https://kareem-blogs.blogspot.com/2024/12/before-beginning-of-college.html)
 
 ## Hobbies
 
 - **Hobby One:** Coding is my 1st hobby.
-- **Hobby Two:** Watching SRK movies.
+- **Hobby Two:** Watching SRK movies.o
 - **Hobby Three:** Getting daily updates on present technologies and coding innovations.
