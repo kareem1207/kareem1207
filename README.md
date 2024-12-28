@@ -84,8 +84,8 @@ This project is a real-time web chat application built with modern web technolog
 ### Algorithms
 
 <picture>
-  <source media="(prefers-color-scheme:dark)" srcset="./images/Algorithms/dsa.png">
-  <source media="(prefers-color-scheme:light)" srcset="./images/Algorithms/dsa-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/Algorithms/dsa.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/Algorithms/dsa-light.png">
   <img src="./images/Algorithms/dsa.png" alt="DSA - C" width="50">
 </picture>
 <img src="./images/Algorithms/DSA-Java.png" alt="DSA - Java" width="50">
