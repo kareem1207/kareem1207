@@ -43,6 +43,8 @@ This project is a real-time web chat application built with modern web technolog
 [![Images 2 PDF - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=moltack&repo=img2pdf&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/img2pdf)
 [![Bank Algorithm - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
 [![Bank Algorithm - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=graywhite&repo=Bank-Algorithm-in-java&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
+[![Brain Fuck Compiler - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=holi&repo=BrainFuck-c-Compiler&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
+[![Brain Fuck Compiler - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=vue&repo=BrainFuck-c-Compiler&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
 
 ## Skills
 
