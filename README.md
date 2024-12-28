@@ -43,6 +43,8 @@ This project is a real-time web chat application built with modern web technolog
 [![Images 2 PDF - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=moltack&repo=img2pdf&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/img2pdf)
 [![Bank Algorithm - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
 [![Bank Algorithm - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=graywhite&repo=Bank-Algorithm-in-java&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
+[![Brain Fuck Compiler - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=holi&repo=BrainFuck-c-Compiler&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
+[![Brain Fuck Compiler - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=vue&repo=BrainFuck-c-Compiler&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
 
 ## Skills
 
@@ -62,7 +64,7 @@ This project is a real-time web chat application built with modern web technolog
   <source media="(prefers-color-scheme:light)" srcset="./images/Algorithms/dsa-light.png">
   <img src="./images/Algorithms/dsa.png" alt="DSA - C" width="50">
 </picture>
-<img src="./images/Algorithms/dsa-java.png" alt="DSA - Java" width="50">
+<img src="./images/Algorithms/DSA-Java.png" alt="DSA - Java" width="50">
 
 ### Databases
 
@@ -72,7 +74,7 @@ This project is a real-time web chat application built with modern web technolog
 
 ### Frameworks
 
-<img src="./images/Frameworks/react.png" alt="React" width="50">
+<img src="./images/Frameworks/React.png" alt="React" width="50">
 <img src="./images/Frameworks/tailwind.png" alt="Tailwind CSS" width="50">
 <img src="./images/Frameworks/react-router.svg" alt="React Router DOM" width="50">
 <img src="./images/Frameworks/React Query.png" alt="React Query" width="50">
