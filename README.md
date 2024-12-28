@@ -11,8 +11,8 @@ This project involves recognizing hand gestures using computer vision techniques
 ### Web Chat Application
 
 <picture>
-<source media="(prefers-color-scheme:dark)" srcset="./images/Projects/web-chat.png">
-<source media="(prefers-color-scheme:light)" srcset="./images/Projects/web-chat-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/Projects/web-chat.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/Projects/web-chat-light.png">
   <img alt="Web Chat Application" src="./images/Projects/web-chat.png" width="400">
 </picture>
 
@@ -33,20 +33,16 @@ This project is a real-time web chat application built with modern web technolog
 ![Top Languages - dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-dark-mode-only)
 ![Top Languages - light](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=swift&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-light-mode-only)
 
-## Github Top Repos :
+## Github Top Repos
 
 [![Hand Gestures Code - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=blue-green&repo=Hand-gestures&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Hand-gestures)
 [![Hand Gestures Code - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=ambient_gradient&repo=Hand-gestures&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Hand-gestures)
 [![Web Chat Application - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Connecto)
 [![Web Chat Application - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=buefy&repo=Connecto&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Connecto)
-[![Images 2 pdf  - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=highcontrast&repo=img2pdf&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/img2pdf)
-[![Images 2 pdf  - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=moltack&repo=img2pdf&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/img2pdf)
-[![Pokemon Card Application - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=chartreuse-dark&repo=Pokemon-Card-2.o&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Pokemon-Card-2.o)
-[![Pokemon Card Application - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=solarized-light&repo=Pokemon-Card-2.o&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Pokemon-Card-2.o)
-[![Bank Algorithm  - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
-[![Bank Algorithm  - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=graywhite&repo=Bank-Algorithm-in-java&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
-[![Brain Fuck Compiler  - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=holi&repo=BrainFuck-c-Compiler&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
-[![Brain Fuck Compiler  - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=vue&repo=BrainFuck-c-Compiler&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
+[![Images 2 PDF - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=highcontrast&repo=img2pdf&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/img2pdf)
+[![Images 2 PDF - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=moltack&repo=img2pdf&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/img2pdf)
+[![Bank Algorithm - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
+[![Bank Algorithm - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=graywhite&repo=Bank-Algorithm-in-java&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
 
 ## Skills
 
@@ -62,8 +58,8 @@ This project is a real-time web chat application built with modern web technolog
 ### Algorithms
 
 <picture>
-<source media="(prefers-color-scheme:dark)" srcset="././images/Algorithms/dsa.png">
-<source media="(prefers-color-scheme:light)" srcset="./images/./images/Algorithms/dsa-light.png">
+  <source media="(prefers-color-scheme:dark)" srcset="./images/Algorithms/dsa.png">
+  <source media="(prefers-color-scheme:light)" srcset="./images/Algorithms/dsa-light.png">
   <img src="./images/Algorithms/dsa.png" alt="DSA - C" width="50">
 </picture>
 <img src="./images/Algorithms/dsa-java.png" alt="DSA - Java" width="50">
@@ -92,7 +88,6 @@ This project is a real-time web chat application built with modern web technolog
 
 ## Blog
 
-Still need to add them
 Check out my latest blog posts on [Your Blog](https://yourblog.com):
 
 - [Blog Post One](https://yourblog.com/blog-post-one)
