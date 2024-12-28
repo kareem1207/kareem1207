@@ -27,24 +27,48 @@ This project is a real-time web chat application built with modern web technolog
 
 ## Github Stats
 
-![GitHub Stats - dark](https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true#gh-dark-mode-only)
-![GitHub Stats - light](https://github-readme-stats.vercel.app/api?username=kareem1207&theme=flag-india&show_icons=true&hide_border=true&include_all_commits=true#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=flag-india&show_icons=true&hide_border=true&include_all_commits=true#gh-light-mode-only">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true">
+</picture>
 
-![Top Languages - dark](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-dark-mode-only)
-![Top Languages - light](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=swift&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=swift&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-light-mode-only">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true">
+</picture>
 
 ## Github Top Repos
 
-[![Hand Gestures Code - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=blue-green&repo=Hand-gestures&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Hand-gestures)
-[![Hand Gestures Code - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=ambient_gradient&repo=Hand-gestures&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Hand-gestures)
-[![Web Chat Application - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Connecto)
-[![Web Chat Application - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=buefy&repo=Connecto&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Connecto)
-[![Images 2 PDF - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=highcontrast&repo=img2pdf&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/img2pdf)
-[![Images 2 PDF - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=moltack&repo=img2pdf&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/img2pdf)
-[![Bank Algorithm - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
-[![Bank Algorithm - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=graywhite&repo=Bank-Algorithm-in-java&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/Bank-Algorithm-in-java)
-[![Brain Fuck Compiler - dark](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=holi&repo=BrainFuck-c-Compiler&hide_border=true#gh-dark-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
-[![Brain Fuck Compiler - light](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=vue&repo=BrainFuck-c-Compiler&hide_border=false#gh-light-mode-only)](https://github.com/kareem1207/BrainFuck-c-Compiler)
+  <a href ="https://github.com/kareem1207/Hand-gestures" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=blue-green&repo=Hand-gestures&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=ambient_gradient&repo=Hand-gestures&hide_border=false">
+  <img alt="Hand Gestures Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=blue-green&repo=Hand-gestures&hide_border=true">
+</picture>
+  </a>
+  <a href ="https://github.com/kareem1207/Connecto" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=buefy&repo=Connecto&hide_border=false">
+  <img alt="Web Chat Application Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true">
+</picture>
+  </a>
+  <a href ="https://github.com/kareem1207/img2pdf" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=highcontrast&repo=img2pdf&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=moltack&repo=img2pdf&hide_border=false">
+  <img alt="Image 2 pdf" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=highcontrast&repo=img2pdf&hide_border=true">
+</picture>
+</a>
+  <a href ="https://github.com/kareem1207/Bank-Algorithm-in-java" >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=graywhite&repo=Bank-Algorithm-in-java&hide_border=false">
+  <img alt="Bank Algorithm" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true">
+</picture>
+  </a>
 
 ## Skills
 
