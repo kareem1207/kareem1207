@@ -120,11 +120,7 @@ This project is a real-time web chat application built with modern web technolog
 
 <div style="display: flex;">
 <img src="./images/Developer Tools/git.png" alt="Git" width="50">
-<picture>
-<source media="(prefers-color-scheme : dark)" srcset="./images/Developer Tools/Github-dark.png" >
-<source media="(prefers-color-scheme : light)" srcset="./images/Developer Tools/Github-light.png" >
-<img src="./images/Developer Tools/Github-light.png" alt="GitHub" width="50">
-</picture>
+<img src="./images/Developer Tools/Github.jpg" alt="GitHub" width="50">
 <img src="./images/Developer Tools/Vscode.png" alt="VS Code" width="50">
 </div>
 
