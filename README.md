@@ -48,11 +48,11 @@ This project is a real-time web chat application built with modern web technolog
   <img alt="Hand Gestures Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=blue-green&repo=Hand-gestures&hide_border=true">
 </picture>
   </a>
-  <a href ="https://github.com/kareem1207/Connecto" >
+  <a href ="https://github.com/kareem1207/Read-Me-generator" >
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=buefy&repo=Connecto&hide_border=false">
-  <img alt="Web Chat Application Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Read-Me-generator&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=buefy&repo=Read-Me-generator&hide_border=false">
+  <img alt="Web Chat Application Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Read-Me-generator&hide_border=true">
 </picture>
   </a>
   <a href ="https://github.com/kareem1207/img2pdf" >
@@ -102,9 +102,10 @@ This project is a real-time web chat application built with modern web technolog
 <img src="./images/Databases/firebase.png" alt="Firebase" width="50">
 </div>
 
-### Frameworks
+### Frameworks & Runtime Environments
 
 <div style="display: flex;">
+<img src="./images/Frameworks/nodejs.png" alt="React" width="50">
 <img src="./images/Frameworks/React.png" alt="React" width="50">
 <img src="./images/Frameworks/tailwind.png" alt="Tailwind CSS" width="50">
 <img src="./images/Frameworks/react-router.svg" alt="React Router DOM" width="50">
@@ -113,6 +114,18 @@ This project is a real-time web chat application built with modern web technolog
 <img src="./images/Frameworks/Next.js.png" alt="Next.js" width="50">
 <img src="./images/Frameworks/Three-js.png" alt="Three.js" width="50">
 <img src="./images/Frameworks/blender.jpg" alt="Blender" width="50">
+</div>
+
+### Developer Tools
+
+<div style="display: flex;">
+<img src="./images/Developer Tools/git.png" alt="Git" width="50">
+<picture>
+<source media="(prefers-color-scheme : dark)" srcset="./images/Developer Tools/Github-dark.png" >
+<source media="(prefers-color-scheme : light)" srcset="./images/Developer Tools/Github-light.png" >
+<img src="./images/Developer Tools/Github-light.png" alt="GitHub" width="50">
+</picture>
+<img src="./images/Developer Tools/Vscode.png" alt="VS Code" width="50">
 </div>
 
 ## Achievements
