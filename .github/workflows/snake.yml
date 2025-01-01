@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
   workflow_dispatch:
 
 permissions:
@@ -11,8 +11,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+
       - uses: Platane/snk@master
         id: snake-gif
         with:
