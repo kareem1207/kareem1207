@@ -50,7 +50,7 @@ This project is a real-time web chat application built with modern web technolog
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kareem1207&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="kareem1207's Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kareem1207&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="kareem1207's Trophy"/>
 </p>
 
 ## 🐍 Contribution Graph
