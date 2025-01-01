@@ -49,11 +49,17 @@ This project is a real-time web chat application built with modern web technolog
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kareem1207&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1&rank=-?)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kareem1207&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="kareem1207's Trophy"/>
+</p>
 
-## GitHub Contribution Graph
+## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/kareem1207/kareem1207/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Github Top Repos
 
