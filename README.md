@@ -28,8 +28,8 @@ This project is a real-time web chat application built with modern web technolog
 ## Github Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=flag-india&show_icons=true&hide_border=true&include_all_commits=true#gh-light-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true#">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=flag-india&show_icons=true&hide_border=true&include_all_commits=true#gh">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true">
 </picture>
 
@@ -38,6 +38,22 @@ This project is a real-time web chat application built with modern web technolog
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=swift&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-light-mode-only">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true">
 </picture>
+
+## GitHub Streak Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kareem1207&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kareem1207&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kareem1207&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</picture>
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kareem1207&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1&rank=-?)
+
+## GitHub Contribution Graph
+
+![Snake animation](https://github.com/kareem1207/kareem1207/blob/output/github-contribution-grid-snake.svg)
 
 ## Github Top Repos
 
