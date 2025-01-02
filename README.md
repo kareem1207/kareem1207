@@ -153,7 +153,7 @@ This project is a real-time web chat application built with modern web technolog
 
 ## Blog
 
-Check out my latest blog posts on [My Blog](kareemblogs07.wordpress.com):
+Check out my latest blog posts on [My Blog](https://kareemblogs07.wordpress.com/):
 
 - [Blog Post One](https://kareemblogs07.wordpress.com/2024/12/29/before-the-beginning-of-college/)
 
