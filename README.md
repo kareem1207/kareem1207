@@ -144,6 +144,8 @@ This project is a real-time web chat application built with modern web technolog
 <img src="./images/Developer Tools/git.png" alt="Git" width="50">
 <img src="./images/Developer Tools/Github.jpg" alt="GitHub" width="50">
 <img src="./images/Developer Tools/Vscode.png" alt="VS Code" width="50">
+<img src="./images/Developer Tools/gitlens-logo.png" alt="Git lens" width="50">
+<img src="./images/Developer Tools/conda.png" alt="Conda" width="50">
 </div>
 
 ## Achievements
