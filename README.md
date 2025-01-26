@@ -148,6 +148,36 @@ This project is a real-time web chat application built with modern web technolog
 <img src="./images/Developer Tools/conda.png" alt="Conda" width="50">
 </div>
 
+## Certificates
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+### Python
+<a href="https://www.hackerrank.com/certificates/a2e14641612f" target="_blank">
+    <img src="./images/Programming Languages/python.png" alt="Python" width="30" style="vertical-align: middle;"> 
+    HackerRank Python Certification
+</a>
+
+### Java
+<a href="https://www.hackerrank.com/certificates/e92107aec059" target="_blank">
+    <img src="./images/Programming Languages/java.png" alt="Java" width="30" style="vertical-align: middle;"> 
+    HackerRank Java Certification
+</a>
+
+### JavaScript
+<a href="https://www.hackerrank.com/certificates/e15be6c2e27e" target="_blank">
+    <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="30" style="vertical-align: middle;"> 
+    HackerRank JavaScript Basic Certification
+</a>
+
+<a href="https://www.hackerrank.com/certificates/e662d777b886" target="_blank">
+    <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="30" style="vertical-align: middle;"> 
+    HackerRank JavaScript Intermediate Certification
+</a>
+
+</div>
+
+
 ## Achievements
 
 - **Achievement One:** Acquired 3rd rank in Project Expo conducted by MGIT.
