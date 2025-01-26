@@ -3,8 +3,12 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B36F7&width=435&lines=Full+Stack+Developer;Computer+Vision+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-  <img src="https://komarev.com/ghpvc/?username=kareem1207&color=blueviolet" alt="Profile Views"/>
-  [![GitHub followers](https://img.shields.io/github/followers/kareem1207?label=Follow&style=social)](https://github.com/kareem1207)
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=kareem1207&color=blueviolet" alt="Profile Views"/>
+    <a href="https://github.com/kareem1207?tab=followers">
+      <img src="https://img.shields.io/github/followers/kareem1207?label=Followers&style=social" alt="GitHub Followers"/>
+    </a>
+  </div>
 </div>
 
 <h3 align="center">A passionate developer with knowledge of various programming languages</h3>
