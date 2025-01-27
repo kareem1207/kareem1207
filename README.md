@@ -194,6 +194,7 @@ This project is a real-time web chat application built with modern web technolog
   <a href="https://www.instagram.com/kareem_shaik1207">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+<a href="https://app.daily.dev/kareemshaik"><img src="https://api.daily.dev/devcards/v2/lz1v3fjoRb3KIBleM0K3U.png?type=wide&r=bnk" width="652" alt="Kareem Shaik's Dev Card"/></a>
 </div>
 </details>
 
