@@ -130,6 +130,7 @@ This project is a real-time web chat application built with modern web technolog
   <img src="./images/Databases/sql.png" alt="SQL" width="50">
   <img src="./images/Databases/mongodb.png" alt="MongoDB" width="50">
   <img src="./images/Databases/firebase.png" alt="Firebase" width="50">
+  <img src="./images/Databases/mysql.png" alt="Mysql" width="50">
 </div>
 
 ### Frameworks & Runtime Environments
@@ -143,6 +144,7 @@ This project is a real-time web chat application built with modern web technolog
   <img src="./images/Frameworks/Next.js.png" alt="Next.js" width="50">
   <img src="./images/Frameworks/Three-js.png" alt="Three.js" width="50">
   <img src="./images/Frameworks/blender.jpg" alt="Blender" width="50">
+  <img src="./images/Frameworks/express-js.png" alt="Express" width="50">
 </div>
 
 ### Developer Tools
@@ -194,6 +196,10 @@ This project is a real-time web chat application built with modern web technolog
   <a href="https://www.instagram.com/kareem_shaik1207">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://x.com/KareemShaik1207">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  
 <a href="https://app.daily.dev/kareemshaik"><img src="https://api.daily.dev/devcards/v2/lz1v3fjoRb3KIBleM0K3U.png?type=wide&r=bnk" width="652" alt="Kareem Shaik's Dev Card"/></a>
 </div>
 </details>
