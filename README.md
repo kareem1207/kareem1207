@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaik%20Kareem&fontSize=80&fontAlignY=35&animation=twinkling&desc=Developer%20|%20Engineer%20|%20Creator&descAlignY=60"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B36F7&width=435&lines=Full+Stack+Developer;Computer+Vision+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B36F7&width=435&lines=Full+Stack+Developer;Computer+Vision+Engineer;)](https://git.io/typing-svg)
 
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://komarev.com/ghpvc/?username=kareem1207&color=blueviolet" alt="Profile Views"/>
@@ -131,6 +131,12 @@ This project is a real-time web chat application built with modern web technolog
   <img src="./images/Databases/mongodb.png" alt="MongoDB" width="50">
   <img src="./images/Databases/firebase.png" alt="Firebase" width="50">
   <img src="./images/Databases/mysql.png" alt="Mysql" width="50">
+</div>
+
+### ORM
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <img src="./images/ORM/prisma.png" alt="Prisma" width="50">
+  <img src="./images/ORM/drizzle.jpeg" alt="Hibernate" width="50">
 </div>
 
 ### Frameworks & Runtime Environments
