@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaik%20Kareem&fontSize=80&fontAlignY=35&animation=twinkling&desc=Developer%20|%20Engineer%20|%20Creator&descAlignY=60"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B36F7&width=435&lines=Full+Stack+Developer;Computer+Vision+Engineer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B36F7&width=435&lines=Full+Stack+Developer;Computer+Vision+Engineer;Prompt+Engineer)](https://git.io/typing-svg)
 
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://komarev.com/ghpvc/?username=kareem1207&color=blueviolet" alt="Profile Views"/>
