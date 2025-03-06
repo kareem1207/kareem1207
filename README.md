@@ -129,7 +129,6 @@ This project is a real-time web chat application built with modern web technolog
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img src="./images/Databases/sql.png" alt="SQL" width="50">
   <img src="./images/Databases/mongodb.png" alt="MongoDB" width="50">
-  <img src="./images/Databases/firebase.png" alt="Firebase" width="50">
   <img src="./images/Databases/mysql.png" alt="Mysql" width="50">
 </div>
 
