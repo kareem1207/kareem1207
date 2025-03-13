@@ -113,6 +113,7 @@ This project is a real-time web chat application built with modern web technolog
   <img src="./images/Programming Languages/html.png" alt="HTML" width="50">
   <img src="./images/Programming Languages/css.png" alt="CSS" width="50">
   <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="50">
+  <img src="./images/Programming Languages/dart.png" alt="Dart" width="50">
 </div>
 
 ### Algorithms
@@ -135,7 +136,7 @@ This project is a real-time web chat application built with modern web technolog
 ### ORM
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img src="./images/ORM/prisma.png" alt="Prisma" width="50">
-  <img src="./images/ORM/drizzle.jpeg" alt="Hibernate" width="50">
+  <img src="./images/ORM/drizzle.png" alt="Hibernate" width="50">
 </div>
 
 ### Frameworks & Runtime Environments
