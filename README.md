@@ -16,25 +16,23 @@
 <details open>
 <summary><h2>📈 Projects</h2></summary>
 
+### 🛰️Space Debris Tracker
+
+<img src="./images/Projects/space-debris-tracker.png" alt="Space Debris Tracker" width="400">
+
+This project tracks space debris using satellite data and provides real-time updates on their positions using Hardware components Arduino Nano and GPS module. It demonstrates your skills in data analysis and visualization.
+
+
 ### 💫 Hand Gestures Code
 <img src="./images/Projects/hand-gestures.png" alt="Hand Gestures Code" width="400">
 
 This project involves recognizing hand gestures using computer vision techniques. It showcases your skills in image processing and machine learning.
 
-### 💬 Web Chat Application
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/Projects/web-chat.png">
-  <source media="(prefers-color-scheme: light)" srcset="./images/Projects/web-chat-light.png">
-  <img alt="Web Chat Application" src="./images/Projects/web-chat.png" width="400">
-</picture>
-
-This project is a real-time web chat application built with modern web technologies. It demonstrates your proficiency in web development and real-time communication.
-</details>
-
 <details open>
 <summary><h2>📊 GitHub Statistics</h2></summary>
 
 ### 📈 Stats & Streak
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true#">
@@ -56,11 +54,13 @@ This project is a real-time web chat application built with modern web technolog
 </div>
 
 ### 🏆 Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kareem1207&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true&rank=-?" alt="kareem1207's Trophy"/>
 </p>
 
 ### 🐍 Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake.svg" />
@@ -106,6 +106,7 @@ This project is a real-time web chat application built with modern web technolog
 <summary><h2>🎯 Skills</h2></summary>
 
 ### Programming Languages
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img src="./images/Programming Languages/c.png" alt="C" width="50">
   <img src="./images/Programming Languages/java.png" alt="Java" width="50">
@@ -117,6 +118,7 @@ This project is a real-time web chat application built with modern web technolog
 </div>
 
 ### Algorithms
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/Algorithms/dsa.png">
@@ -127,6 +129,8 @@ This project is a real-time web chat application built with modern web technolog
 </div>
 
 ### Databases
+
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img src="./images/Databases/sql.png" alt="SQL" width="50">
   <img src="./images/Databases/mongodb.png" alt="MongoDB" width="50">
@@ -140,6 +144,7 @@ This project is a real-time web chat application built with modern web technolog
 </div>
 
 ### Frameworks & Runtime Environments
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img src="./images/Frameworks/nodejs.png" alt="Node.js" width="50">
   <img src="./images/Frameworks/React.png" alt="React" width="50">
@@ -154,6 +159,7 @@ This project is a real-time web chat application built with modern web technolog
 </div>
 
 ### Developer Tools
+
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
   <img src="./images/Developer Tools/git.png" alt="Git" width="50">
   <img src="./images/Developer Tools/Github.jpg" alt="GitHub" width="50">
@@ -168,18 +174,21 @@ This project is a real-time web chat application built with modern web technolog
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
 ### Python
+
 <a href="https://www.hackerrank.com/certificates/a2e14641612f" target="_blank">
     <img src="./images/Programming Languages/python.png" alt="Python" width="30" style="vertical-align: middle;"> 
     HackerRank Python Certification
 </a>
 
 ### Java
+
 <a href="https://www.hackerrank.com/certificates/e92107aec059" target="_blank">
     <img src="./images/Programming Languages/java.png" alt="Java" width="30" style="vertical-align: middle;"> 
     HackerRank Java Certification
 </a>
 
 ### JavaScript
+
 <a href="https://www.hackerrank.com/certificates/e662d777b886" target="_blank">
     <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="30" style="vertical-align: middle;">
     HackerRank JavaScript Certification
