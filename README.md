@@ -18,12 +18,13 @@
 
 ### 🛰️Space Debris Tracker
 
-<img src="./images/Projects/space-debris-tracker.png" alt="Space Debris Tracker" width="400">
+<img src="./images/Projects/space-debris-tracker.jpg" alt="Space Debris Tracker" width="400">
 
-This project tracks space debris using satellite data and provides real-time updates on their positions using Hardware components Arduino Nano and GPS module. It demonstrates your skills in data analysis and visualization.
+This project tracks space debris using satellite data (our current location) and provides real-time updates on their positions using Hardware components Arduino Nano, GPS module and Servo motors.
 
 
 ### 💫 Hand Gestures Code
+
 <img src="./images/Projects/hand-gestures.png" alt="Hand Gestures Code" width="400">
 
 This project involves recognizing hand gestures using computer vision techniques. It showcases your skills in image processing and machine learning.
