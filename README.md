@@ -1,225 +1,120 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaik%20Kareem&fontSize=80&fontAlignY=35&animation=twinkling&desc=Developer%20|%20Engineer%20|%20Creator&descAlignY=60"/>
+# Shaik Kareem
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B36F7&width=435&lines=Full+Stack+Developer;Computer+Vision+Engineer;Prompt+Engineer)](https://git.io/typing-svg)
+![Shaik Kareem header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaik%20Kareem&fontSize=72&fontAlignY=35&animation=twinkling&desc=AI/ML%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60)
 
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=kareem1207&color=blueviolet" alt="Profile Views"/>
-    <a href="https://github.com/kareem1207?tab=followers">
-      <img src="https://img.shields.io/github/followers/kareem1207?label=Followers&style=social" alt="GitHub Followers"/>
-    </a>
-  </div>
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=kareem1207&color=blueviolet)](https://github.com/kareem1207) [![Followers](https://img.shields.io/github/followers/kareem1207?label=Followers&style=social)](https://github.com/kareem1207?tab=followers)
 
-<h3 align="center">A passionate developer with knowledge of various programming languages</h3>
+[![Email](https://img.shields.io/badge/Email-kareemshaik1207%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemshaik1207@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Kareem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-shaik-4a0797379/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-111?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem1207.github.io/portfolio/) [![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kareem1207.github.io/portfolio/Kareem_Resume.pdf)
 
-<details open>
-<summary><h2>📈 Projects</h2></summary>
+> I build intelligent features (LLMs, RAG, analytics) and ship full‑stack apps with clean APIs, auth, and solid DX.
 
-### 🛰️Space Debris Tracker
+Highlights: 10+ Projects • 3 Hackathons/Finals • Strong DSA in Java
 
-<img src="./images/Projects/space-debris-tracker.jpg" alt="Space Debris Tracker" width="400">
+> 🧭 Focus: AI/ML + Full‑Stack • Product-minded • Performance & realtime
+>
+> 💼 Open to: AI/ML Engineer, Full‑Stack Developer, SWE Internships
 
-This project tracks space debris using satellite data (our current location) and provides real-time updates on their positions using Hardware components Arduino Nano, GPS module and Servo motors.
+## 🚀 Featured Projects
 
+### Hand Gestures Controller
 
-### 💫 Hand Gestures Code
+[![Hand Gestures Controller](./images/Projects/hand-gestures.png)](https://github.com/kareem1207/Hand-gestures)
 
-<img src="./images/Projects/hand-gestures.png" alt="Hand Gestures Code" width="400">
+Hands‑free control using OpenCV + MediaPipe; translates gestures to real‑time mouse/keyboard events (PyAutoGUI).
 
-This project involves recognizing hand gestures using computer vision techniques. It showcases your skills in image processing and machine learning.
+Stack: Python · OpenCV · MediaPipe · PyAutoGUI • [Repository →](https://github.com/kareem1207/Hand-gestures)
 
-<details open>
-<summary><h2>📊 GitHub Statistics</h2></summary>
+### Space Debris Tracker
 
-### 📈 Stats & Streak
+[![Space Debris Tracker](./images/Projects/space-debris-tracker.jpg)](https://github.com/kareem1207/Space-Debris-Tracker)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true#">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=flag-india&show_icons=true&hide_border=true&include_all_commits=true#gh">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true">
-  </picture>
+Computes orbits from TLE with Skyfield; hardware prototype (Arduino Nano, GPS, Servos) for tracking.
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=swift&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true#gh-light-mode-only">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20&hide_border=true">
-  </picture>
+Stack: Python · Skyfield · TLE · Hardware • [Repository →](https://github.com/kareem1207/Space-Debris-Tracker)
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kareem1207&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kareem1207&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kareem1207&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  </picture>
-</div>
+### Aizy — Full‑Stack AI Platform
 
-### 🏆 Trophies
+[![Aizy](./images/Projects/aizy-logo.jpg)](https://github.com/kareem1207/Aizy)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kareem1207&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true&rank=-?" alt="kareem1207's Trophy"/>
-</p>
+Next.js app + Express backend + FastAPI microservice; hybrid MongoDB/MySQL via Prisma; JWT auth.
 
-### 🐍 Contributions
+Stack: Next.js · Express · FastAPI · MongoDB · MySQL · Prisma · Tailwind • [Repository →](https://github.com/kareem1207/Aizy)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake.svg" />
-</picture>
-</details>
+### Collaborative Text Editor
 
-<details open>
-<summary><h2>🚀 Top Repositories</h2></summary>
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <a href="https://github.com/kareem1207/Hand-gestures">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=blue-green&repo=Hand-gestures&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=ambient_gradient&repo=Hand-gestures&hide_border=false">
-      <img alt="Hand Gestures Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=blue-green&repo=Hand-gestures&hide_border=true">
-    </picture>
-  </a>
-  <a href="https://github.com/kareem1207/Connecto">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=buefy&repo=Connecto&hide_border=false">
-      <img alt="Connecto Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=great-gatsby&repo=Connecto&hide_border=true">
-    </picture>
-  </a>
-  <a href="https://github.com/kareem1207/BrainFuck-c-Compiler">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=holi&repo=BrainFuck-c-Compiler&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=vue&repo=BrainFuck-c-Compiler&hide_border=false">
-      <img alt="BrainFuck Compiler Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=holi&repo=BrainFuck-c-Compiler&hide_border=true">
-    </picture>
-  </a>
-  <a href="https://github.com/kareem1207/Bank-Algorithm-in-java">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=graywhite&repo=Bank-Algorithm-in-java&hide_border=false">
-      <img alt="Bank Algorithm Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&theme=codeSTACKr&repo=Bank-Algorithm-in-java&hide_border=true">
-    </picture>
-  </a>
-</div>
-</details>
+[![CollabEditor](./images/Projects/collab-editor.png)](https://github.com/kareem1207/CollabEditor)
 
-<details open>
-<summary><h2>🎯 Skills</h2></summary>
+Real‑time editor over a custom TCP protocol; Java NIO + Swing; multithreaded client‑server.
 
-### Programming Languages
+Stack: Java · Sockets · NIO · Swing · Maven • [Repository →](https://github.com/kareem1207/CollabEditor)
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="./images/Programming Languages/c.png" alt="C" width="50">
-  <img src="./images/Programming Languages/java.png" alt="Java" width="50">
-  <img src="./images/Programming Languages/python.png" alt="Python" width="50">
-  <img src="./images/Programming Languages/html.png" alt="HTML" width="50">
-  <img src="./images/Programming Languages/css.png" alt="CSS" width="50">
-  <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="50">
-  <img src="./images/Programming Languages/dart.png" alt="Dart" width="50">
-</div>
+More noteworthy: [3D Portfolio Generator](https://github.com/kareem1207/3d-Portfolio-Generator) • [SehatSaathi 2.0](https://github.com/kareem1207/SehatSaathi-2.0)
 
-### Algorithms
+---
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/Algorithms/dsa.png">
-    <source media="(prefers-color-scheme: light)" srcset="./images/Algorithms/dsa-light.png">
-    <img src="./images/Algorithms/dsa.png" alt="DSA - C" width="50">
-  </picture>
-  <img src="./images/Algorithms/DSA-Java.png" alt="DSA - Java" width="50">
-</div>
+## 🧠 Skills
 
-### Databases
+### Core Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="./images/Databases/sql.png" alt="SQL" width="50">
-  <img src="./images/Databases/mongodb.png" alt="MongoDB" width="50">
-  <img src="./images/Databases/mysql.png" alt="Mysql" width="50">
-</div>
+### Extras
 
-### ORM
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="./images/ORM/prisma.png" alt="Prisma" width="50">
-  <img src="./images/ORM/drizzle.png" alt="Hibernate" width="50">
-</div>
+OpenCV • MediaPipe • Skyfield • Scikit‑learn • Pandas • NumPy • Matplotlib • Seaborn • RAG • LLM Integration • JWT • REST APIs
 
-### Frameworks & Runtime Environments
-
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="./images/Frameworks/nodejs.png" alt="Node.js" width="50">
-  <img src="./images/Frameworks/React.png" alt="React" width="50">
-  <img src="./images/Frameworks/tailwind.png" alt="Tailwind CSS" width="50">
-  <img src="./images/Frameworks/react-router.svg" alt="React Router DOM" width="50">
-  <img src="./images/Frameworks/React Query.png" alt="React Query" width="50">
-  <img src="./images/Frameworks/react-fiber.png" alt="React Three Fiber" width="50">
-  <img src="./images/Frameworks/Next.js.png" alt="Next.js" width="50">
-  <img src="./images/Frameworks/Three-js.png" alt="Three.js" width="50">
-  <img src="./images/Frameworks/blender.jpg" alt="Blender" width="50">
-  <img src="./images/Frameworks/express-js.png" alt="Express" width="50">
-</div>
+<!-- Icons grid removed to keep lint clean and layout crisp; badges above cover the stack -->
 
 ### Developer Tools
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="./images/Developer Tools/git.png" alt="Git" width="50">
-  <img src="./images/Developer Tools/Github.jpg" alt="GitHub" width="50">
-  <img src="./images/Developer Tools/Vscode.png" alt="VS Code" width="50">
-  <img src="./images/Developer Tools/gitlens-logo.png" alt="Git lens" width="50">
-  <img src="./images/Developer Tools/conda.png" alt="Conda" width="50">
-</div>
-</details>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitLens](https://img.shields.io/badge/GitLens-6C2BD9?style=for-the-badge&logo=gitlens&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-<details open>
-<summary><h2>🎓 Certificates</h2></summary>
-<div style="display: flex; flex-direction: column; gap: 10px;">
+---
 
-### Python
+## 🎓 Certifications
 
-<a href="https://www.hackerrank.com/certificates/a2e14641612f" target="_blank">
-    <img src="./images/Programming Languages/python.png" alt="Python" width="30" style="vertical-align: middle;"> 
-    HackerRank Python Certification
-</a>
+- Python — HackerRank • [Certificate](https://www.hackerrank.com/certificates/a2e14641612f)
+- Java — HackerRank • [Certificate](https://www.hackerrank.com/certificates/e92107aec059)
+- JavaScript — HackerRank • [Certificate](https://www.hackerrank.com/certificates/e15be6c2e27e)
+- JavaScript (Intermediate) — HackerRank • [Certificate](https://www.hackerrank.com/certificates/e662d777b886)
 
-### Java
+---
 
-<a href="https://www.hackerrank.com/certificates/e92107aec059" target="_blank">
-    <img src="./images/Programming Languages/java.png" alt="Java" width="30" style="vertical-align: middle;"> 
-    HackerRank Java Certification
-</a>
+## 📊 GitHub Stats
 
-### JavaScript
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kareem1207&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true)
 
-<a href="https://www.hackerrank.com/certificates/e662d777b886" target="_blank">
-    <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="30" style="vertical-align: middle;">
-    HackerRank JavaScript Certification
-</a>
-</div>
-</details>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem1207&theme=outrun&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide_border=true)
 
-<details open>
-<summary><h2>📫 Connect With Me</h2></summary>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <a href="mailto:kareemshaik1207@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kareem1207">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://app.daily.dev/kareemshaik">
-    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/kareem_shaik1207">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/KareemShaik1207">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  
-<a href="https://app.daily.dev/kareemshaik"><img src="https://api.daily.dev/devcards/v2/lz1v3fjoRb3KIBleM0K3U.png?type=wide&r=bnk" width="652" alt="Kareem Shaik's Dev Card"/></a>
-</div>
-</details>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+## 🏆 Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kareem1207&theme=onedark&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=6)
+
+---
+
+## 🐍 Contributions
+
+![github-snake-dark](https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake-dark.svg#gh-dark-mode-only)
+![github-snake-light](https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake.svg#gh-light-mode-only)
+
+---
+
+## 📦 Top Repositories
+
+| Repo | Repo |
+|---|---|
+| [![Hand-gestures](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&repo=Hand-gestures&theme=blue-green&hide_border=true)](https://github.com/kareem1207/Hand-gestures) | [![Aizy](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&repo=Aizy&theme=great-gatsby&hide_border=true)](https://github.com/kareem1207/Aizy) |
+| [![CollabEditor](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&repo=CollabEditor&theme=codeSTACKr&hide_border=true)](https://github.com/kareem1207/CollabEditor) | [![Space-Debris-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=kareem1207&repo=Space-Debris-Tracker&theme=holi&hide_border=true)](https://github.com/kareem1207/Space-Debris-Tracker) |
+
+## 🤝 Connect
+
+- LinkedIn: [Profile](https://www.linkedin.com/in/kareem-shaik-4a0797379/)
+- Portfolio: [kareem1207.github.io/portfolio](https://kareem1207.github.io/portfolio/)
+- GitHub: [github.com/kareem1207](https://github.com/kareem1207)
+- LeetCode: [leetcode.com/kareem1207](https://leetcode.com/kareem1207/)
+- Email: [kareemshaik1207@gmail.com](mailto:kareemshaik1207@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+© 2025 Shaik Kareem
