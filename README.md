@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kareem1207&color=blueviolet)](https://github.com/kareem1207) [![Followers](https://img.shields.io/github/followers/kareem1207?label=Followers&style=social)](https://github.com/kareem1207?tab=followers)
 
-[![Email](https://img.shields.io/badge/Email-kareemshaik1207%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemshaik1207@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Kareem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-shaik-4a0797379/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-111?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem1207.github.io/portfolio/) [![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kareem1207.github.io/portfolio/Kareem_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-kareemshaik1207%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemshaik1207@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaik%20Kareem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-kareem-4a0797379/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-111?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem1207.github.io/portfolio/) [![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kareem1207.github.io/portfolio/Kareem_Resume.pdf)
 
 > I build systems that think, and the interfaces worth thinking in — LLM orchestration, RAG, multi-agent pipelines, and the full-stack scaffolding that makes them usable.
 
@@ -179,7 +179,7 @@ AI Analytics • Analytical Reporting • Data Quality Management
 
 ## 🤝 Connect
 
-- LinkedIn: [Profile](https://www.linkedin.com/in/kareem-shaik-4a0797379/)
+- LinkedIn: [Profile](https://www.linkedin.com/in/shaik-kareem-4a0797379/)
 - Portfolio: [kareem1207.github.io/portfolio](https://kareem1207.github.io/portfolio/)
 - GitHub: [github.com/kareem1207](https://github.com/kareem1207)
 - LeetCode: [leetcode.com/kareem1207](https://leetcode.com/kareem1207/)
